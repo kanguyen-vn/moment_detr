@@ -10,6 +10,7 @@ tmp*.py
 *tmp*
 *pickle
 credentials
+features/
 
 # compiled files #
 *.pyc
@@ -46,3 +47,6 @@ credentials
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Experiments
+experiments.ipynb
